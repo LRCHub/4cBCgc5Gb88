@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "スノウドロップ",
+  "base_artist": "Conton Candy",
+  "createdAt": "2025-12-01T08:30:14.401094Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スノウドロップ",
+      "artist": "Naotaro Moriyama",
+      "has_synced": true,
+      "path": "select/01_スノウドロップ_Naotaro_Moriyama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スノウドロップ (Paused)",
+      "artist": "Conton Candy",
+      "has_synced": true,
+      "path": "select/02_スノウドロップ_(Paused)_Conton_Candy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スノウドロップ",
+      "artist": "Conton Candy",
+      "has_synced": true,
+      "path": "select/03_スノウドロップ_Conton_Candy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "snowdrop",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_01_snowdrop_春奈るな.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "snow drop [ray mix]",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_02_snow_drop_[ray_mix]_春奈るな.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "snowdrop",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_03_snowdrop_春奈るな.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "snow drop",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_04_snow_drop_春奈るな.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "snow drop",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_05_snow_drop_春奈るな.txt"
+    }
+  ]
+}
